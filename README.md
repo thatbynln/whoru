@@ -102,7 +102,6 @@
 * [Searx](https://searx.me) – An open-source, self-hostable, metasearch engine.
 * [Mojeek](https://www.mojeek.com) – An independent search engine which does not track you.
 * [Qwant](https://www.qwant.com) – A search engine that respects your privacy.
-* [YaCy](https://yacy.net) – A free, open source and decentralized search engine.
 * [Swisscows](https://swisscows.com) – A private search engine made in Switzerland.
 
 ## Web browsers
@@ -112,6 +111,8 @@
 * [Firefox](https://www.mozilla.org/en-US/firefox/) – An open source web browser that respects your privacy ([see here](https://www.privacytools.io/browsers/#about_config) to harden it).
 * [Tor Browser](https://www.torproject.org) – A modified version of Firefox ESR with privacy add-ons, encryption, and an advanced proxy.
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) – Chromium without its built-in Google services or background processes.
+* [Brave Browser](https://www.stoutner.com/privacy-browser/) – An open source Android web browser focused on user privacy.
+
 
 ### For Android
 
@@ -132,13 +133,12 @@
 _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it serves the same purpose. Moreover, it's even harmful since you're increasing your fingerprint with every extension you install. In general, you should only install the extensions you need and not all the ones listed above._
 
 * [uBlock Origin](https://ublockorigin.com) – A free and open source content Blocker.
-* [Privacy Badger](https://privacybadger.org) – An extensions that automatically learns to block invisible trackers.
+
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) – An extension that encrypts your communications with many major websites.
 * [NoScript](https://noscript.net) – An extension that blocks JavaScript, Flash, and other executable content.
-* [LocalCDN](https://www.localcdn.org) – An extension that emulates Content Delivery Networks to improve your online privacy.
+
 * [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls) – An extension to remove tracking elements from URLs.
-* [ToS;Dr](https://tosdr.org) – An extension that ranks the terms of service of various major websites.
-* [SponsorBlock](https://sponsor.ajay.app) – A crowdsourced browser extension for skipping sponsor segments in YouTube videos.
+
 * [Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) and [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) to create and manage containers in Firefox.
 * [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) – An extension that deletes cookies and other browsing site data as soon as the tab closes.
 * [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) – An extension that alters some JS APIs to prevent fingerprinting.
@@ -154,7 +154,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Posteo](https://posteo.de) – Secure and private email service based in Germany.
 * [Disroot](https://disroot.org) – An online services provider based in the Netherlands.
 * [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
-* [CTemplar](https://ctemplar.com) – An anonymous and encrypted email provider based in Iceland.
+
 
 ### Clients
 
@@ -165,9 +165,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Claws Mail](https://www.claws-mail.org) – An open source email client (and news reader) for Windows and Linux.
 * [KMail](https://kontact.kde.org/components/kmail.html) – The email component of Kontact, the integrated personal information manager from KDE.
 * [K-9 Mail](https://k9mail.app) – A free and open source email client for Android.
-* [FairEmail](https://email.faircode.eu) – An open source and privacy oriented email app for Android.
-* [p≡p](https://www.pep.security) – Free and open source email client for Android and iOS.
-* [Kube](https://kube-project.com) – A modern communication and collaboration client for Linux and macOS.
+
 
 ### Encryption
 
@@ -181,7 +179,6 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email. Allows 15 aliases for free.
 * [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address. Allows unlimited aliases.
-* [Firefox Relay](https://relay.firefox.com) – Create aliases that forward to your real inbox. Allows 5 aliases.
 
 ### Temporary email
 
@@ -203,10 +200,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### User-friendly OS
 
-* [Ubuntu](https://ubuntu.com) – A reliable and user-friendly Linux distribution developed by Canonical.
+
 * [Fedora Workstation](https://getfedora.org/en/workstation) – A reliable, user-friendly, and powerful operating system.
 * [Linux Mint](https://linuxmint.com) – A modern, elegant and easy to use Linux distribution based on Ubuntu.
-* [Manjaro](https://manjaro.org) – An accessible, friendly, open-source operating system.
+
 * [openSUSE](https://www.opensuse.org) – A community project to develop and maintain a general purpose Linux distribution.
 * [Solus](https://getsol.us) – A Linux distribution built from scratch, exclusively for desktop systems.
 * [Pop!₋OS](https://pop.system76.com) – A distribution developed by System76, based on Ubuntu and GNOME.
@@ -219,12 +216,11 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Debian](https://www.debian.org) – A good Linux distribution known for its stability.
 * [NixOS](https://nixos.org) – A Linux distribution that aims to improve the state of the art in system configuration management.
 * [Void Linux](https://voidlinux.org) – A general purpose operating system, based on the monolithic Linux kernel.
-* [GhostBSD](https://www.ghostbsd.org) – A simple, elegant desktop BSD operating system.
 
 ### Privacy oriented OS
 
 * [Tails](https://tails.boum.org) – A Debian based live CD/USB with the goal of providing complete Internet anonymity.
-* [Alpine Linux](https://www.alpinelinux.org) – A security-oriented, lightweight Linux distribution based on musl libc and busybox.
+
 * [Qubes OS](https://www.qubes-os.org) – A security-oriented operating system that uses "security by compartmentalization".
 * [Whonix](https://www.whonix.org) – A desktop operating system designed for advanced security and privacy.
 * [Parrot OS](https://www.parrotsec.org) – A Linux distribution based on Debian and designed with security and privacy in mind.
@@ -233,13 +229,9 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [GrapheneOS](https://grapheneos.org) – A privacy-focused mobile operating system for Pixel phones built on top of AOSP.
 * [CalyxOS](https://calyxos.org) – A secure and private mobile OS for Pixel phones and the Xiami Mi A2.
-* [LineageOS](https://www.lineageos.org) – A custom ROM based on AOSP with official support for a wide variety of devices.
-* [Ubuntu Touch](https://ubuntu-touch.io) – A free and open-source operating system for smartphones and tablets based on Ubuntu.
+
+
 * [Plasma Mobile](https://www.plasma-mobile.org) – A privacy-respecting, open source and secure phone ecosystem based on KDE Plasma.
-* [postmarketOS](https://postmarketos.org) – A Linux distribution for mobile phones.
-* [/e/](https://e.foundation) – A fork of LineageOS that aims to be completely free of everything Google.
-* [PureOS](https://pureos.net) – A user friendly, secure and freedom respecting OS for the Librem 5 phone.
-* [microG](https://microg.org) – Not an OS, but a re-implementation of Google’s proprietary Android apps and libraries.
 
 ## Social networks
 
@@ -249,7 +241,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [diaspora*](https://diasporafoundation.org) – A free, open source and decentralized social network.
 * [Friendica](https://friendi.ca) – A decentralized social network with no central authority or ownership.
-* [Movim](https://movim.eu) – A decentralized social and chat platform that act as a web frontend for the XMPP protocol.
+
 
 — Clients
 
