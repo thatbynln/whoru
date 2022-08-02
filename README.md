@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="one.svg" with="75" height="75" alt="Awesome Privacy Icon"></p>
+<p align="center"><img src="web-development.png" with="75" height="75" alt="Awesome Privacy Icon"></p>
 <div align="center">
 <h1 align="center">Who Are You</h1>
 <h4 align="center">A Socially Motivated list of Privacy & Security Respecting Tools..</h4>
