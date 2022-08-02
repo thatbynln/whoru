@@ -113,10 +113,10 @@
 ### For Android
 
 * [Bromite](https://www.bromite.org) – A Chromium fork with ad blocking and enhanced privacy.
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) – An open-source web browser that has built-in ad and tracker blocking.
+* [Mozilla Firefox](https://duckduckgo.com/app) – An open-source web browser By Mozilla
 * [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) – A dedicated privacy browser with tracking protection and content blocking.
-* [Privacy Browser](https://www.stoutner.com/privacy-browser/) – An open source Android web browser focused on user privacy.
-* [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
+* [Brave Browser](https://www.stoutner.com/privacy-browser/) – An open source Android web browser focused on user privacy.
+
 
 ### For iOS
 
