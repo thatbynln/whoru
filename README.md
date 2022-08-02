@@ -1,9 +1,9 @@
 
 <p align="center"><img src="icon.svg" with="75" height="75" alt="Awesome Privacy Icon"></p>
 <h1 align="center"> WhoRU </h1>
-<p align="center"><b>WhoAreYou</b> Privacy &amp; Security Oriented Information Center</p>
+<p align="center"><b>Privacy &amp; Security Oriented Information Center</b></p>
 
-<p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
+<p align="center"><a href="/" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
 ---
 
