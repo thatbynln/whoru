@@ -1,14 +1,11 @@
 
-<div class="container">
-        <input type="checkbox" id="toggle">
-    </div>
 
 <p align="center"><img src="one.svg" with="75" height="75" alt="Awesome Privacy Icon"></p>
 <div align="center">
 <h1 align="center">Who Are You</h1>
 <h4 align="center">A Socially Motivated list of Privacy & Security Respecting Tools..</h4>
 </div>
- <script src="index_files/script.js"></script>
+
 <p align="center"><a href="/" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
 ---
